@@ -5,7 +5,7 @@ protections against common web-application vulnerabilities and attacks such as c
 scripting attacks. It doesn't cover application-level security, such as authentication (_Who is
 this user?_) and authorization (_What can this user do?_).
 
-For more information about the attacks and mitigations described below, see [OWASP Guide Project](https://www.owasp.org/index.php/Category:OWASP_Guide_Project).
+For more information about the attacks and mitigations described below, see [OWASP Guide Project](https://owasp.org/www-project-top-ten/).
 
 You can run the <live-example></live-example> in Stackblitz and download the code from there.
 
